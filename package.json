@@ -1,0 +1,33 @@
+{
+  "name": "learn-deno",
+  "version": "1.0.0",
+  "description": "All resources related to Deno 🐍will be found here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swap76/Learn-Deno.git"
+  },
+  "keywords": [
+    "Deno"
+  ],
+  "author": "Swapnil Satish Shinde (Swap76)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Swap76/Learn-Deno/issues"
+  },
+  "homepage": "https://github.com/Swap76/Learn-Deno#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.0",
+    "husky": "^4.2.5",
+    "prettier": "^2.0.5",
+    "pretty-quick": "^2.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  }
+}
