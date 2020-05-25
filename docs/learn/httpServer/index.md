@@ -21,4 +21,4 @@ deno run --allow-net http-server.ts
 
 For running you need to pass an `--allow-net` else permissions to access network will be denied resulting in below error
 
-![Permission denied to access network output](../../images/http-server-error.png)
+![Permission denied to access network output](./http-server-error.png)
