@@ -10,4 +10,14 @@
 
 - [Standard-Libraries](./standardLibraries/index.md)
 
+- [Tools](./tools/index.md)
+
+- [Blogs](./blogs/index.md)
+
+  - [Introduction](./blogs/introduction.md)
+
+  - [REST API](./blogs/rest-api.md)
+
+- [Presentations](./presentations/index.md)
+
 - [Websites](./websites/index.md)

@@ -1,8 +1,7 @@
 {
   "name": "learn-deno",
   "version": "1.0.0",
-  "description": "All resources related to Deno 🐍will be found here",
-  "main": "index.js",
+  "description": "All resources related to Deno 🦕 will be found here...",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +10,11 @@
     "url": "git+https://github.com/Swap76/Learn-Deno.git"
   },
   "keywords": [
-    "Deno"
+    "Deno",
+    "why-deno",
+    "secure",
+    "runtime-javascript-typescript",
+    "begginer-to-advance"
   ],
   "author": "Swapnil Satish Shinde (Swap76)",
   "license": "AGPL-3.0",
