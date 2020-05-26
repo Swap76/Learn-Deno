@@ -2,12 +2,30 @@
 
 Deno is a secure TypeScript runtime built on V8, the Google runtime engine for JavaScript.
 
-## Built with:
+## Built with
 
 - Rust (Deno’s core was written in Rust, Node’s in C++)
 - Tokio (the event loop written in Rust)
 - TypeScript (Deno supports both JavaScript and TypeScript out of the box)
 - V8 (Google’s JavaScript runtime used in Chrome and Node, among others)
+
+## Philosophy
+
+Deno aims to be a productive and secure scripting environment for the modern programmer.
+
+Deno will always be distributed as a single executable. Given a URL to a Deno program, it is runnable with nothing more than the ~15 megabyte zipped executable. Deno explicitly takes on the role of both runtime and package manager. It uses a standard browser-compatible protocol for loading modules: URLs.
+
+Among other things, Deno is a great replacement for utility scripts that may have been historically written with bash or python.
+
+## Goals
+
+- Only ship a single executable (deno).
+- Provide Secure Defaults
+  - Unless specifically allowed, scripts can't access files, the environment, or the network.
+- Browser compatible: The subset of Deno programs which are written completely in JavaScript and do not use the global Deno namespace (or feature test for it), ought to also be able to be run in a modern web browser without change.
+- Provide built-in tooling like unit testing, code formatting, and linting to improve developer experience.
+- Does not leak V8 concepts into user land.
+- Be able to serve HTTP efficiently
 
 ## First-class TypeScript support
 
