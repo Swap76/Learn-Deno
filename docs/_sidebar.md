@@ -10,13 +10,13 @@
 
 - [Standard-Libraries](./standardLibraries/index.md)
 
+- [Examples](./examples/index.md)
+
 - [Tools](./tools/index.md)
 
 - [Blogs](./blogs/index.md)
 
-  - [Introduction](./blogs/introduction.md)
-
-  - [REST API](./blogs/rest-api.md)
+- [Videos](./videos/index.md)
 
 - [Presentations](./presentations/index.md)
 
