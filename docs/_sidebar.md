@@ -6,8 +6,6 @@
 
 - [Learn](./learn/index.md)
 
-  - [http-server](./learn/httpServer/index.md)
-
 - [Standard-Libraries](./standardLibraries/index.md)
 
 - [Examples](./examples/index.md)
@@ -21,3 +19,5 @@
 - [Presentations](./presentations/index.md)
 
 - [Websites](./websites/index.md)
+
+- [Want to Contribute](./contributing.md)

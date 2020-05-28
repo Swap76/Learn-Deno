@@ -24,3 +24,7 @@ It is strongly recommended that you link to tagged releases to avoid unintended 
 - testing
 - uuid
 - ws
+
+### Contributions Encouraged
+
+If you know something and want to add or found some bugs. Follow the [contribution](./contributing.md) guidelines. We are actively taking contributions from peoples :-)

@@ -12,3 +12,7 @@ This section contains diffrent examples to understand the working of Deno.
 - [OS Signals](./examples/os-signals.md)
 - [File system events](./examples/file-system-events.md)
 - [Checking if file is main](./examples/test-if-main.md)
+
+### Contributions Encouraged
+
+If you know something and want to add or found some bugs. Follow the [contribution](./contributing.md) guidelines. We are actively taking contributions from peoples :-)
