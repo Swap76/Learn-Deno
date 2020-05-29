@@ -12,6 +12,14 @@ Videos in this section gives a brief idea about the Deno, why deno is developed,
 - [What Is Deno And Do You Need To Learn It?](https://youtu.be/1ltKPjQKczU)
 - [Learn Node.js Before Deno](https://youtu.be/bZjGSNPCXdU)
 
+## Crash Courses
+
+- [Deno Crash Course](https://youtu.be/NHHhiqwcfRM)
+- [Deno crash course | Building API with Deno](https://youtu.be/ll-8rtmq2Zc)
+- [Deno Crash Course | Tests & QRCode](https://youtu.be/Bkzem7vLjlA)
+- [Deno Tutorial - Full Course 3.5 Hours (2020)](https://youtu.be/zU6-8w1IR-I)
+- [Deno Crash Course (Backend) + Flutter (Frontend) Full Tutorial](https://youtu.be/_65Ixfu9nSo)
+
 ### Contributions Encouraged
 
 If you know something and want to add or found some bugs. Follow the [contribution](./contributing.md) guidelines. We are actively taking contributions from peoples :-)
