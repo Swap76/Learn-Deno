@@ -115,7 +115,7 @@ counter allowing args to be reused:
 
 returns `dec[1]=255 hex[1]=0xff oct[1]=0377 Third`
 
-Width and precision my also use positionals:
+Width and precision may also use positionals:
 
     "%[2]*.[1]*d", 1, 2
 

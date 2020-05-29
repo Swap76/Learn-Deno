@@ -23,7 +23,7 @@ No. Node.js is a giant, well established, incredibly well supported technology t
 
 - Node is written in C++ and JavaScript. Deno is written in Rust and TypeScript.
 - Node has an official package manager called npm. Deno does not, and instead lets you import any ES Module from URLs.
-- Node uses the CommonJS syntax for importing pacakges. Deno uses ES Modules, the official way.
+- Node uses the CommonJS syntax for importing packages. Deno uses ES Modules, the official way.
 - Deno uses modern ECMAScript features in all its API and standard library, while Node.js uses a callbacks-based standard library and has no plans to upgrade it.
 - Deno offers a sandbox security layer through permissions. A program can only access the permissions set to the executable as flags by the user. A Node.js program can access anything the user can access
 - Deno has for a long time envisioned the possibility of compiling a program into an executable that you can run without external dependencies, like Go, but it’s still not a thing yet. That’d be a game changer.

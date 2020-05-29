@@ -24,7 +24,7 @@ hello
 Here a function is assigned to `window.onload`. This function is called after
 the main script is loaded. This is the same as
 [onload](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onload)
-of the browsers, and it can be used as the main entrypoint.
+of the browsers, and it can be used as the main entry point.
 
 By default when you use `Deno.run()` subprocess inherits `stdin`, `stdout` and
 `stderr` of parent process. If you want to communicate with started subprocess

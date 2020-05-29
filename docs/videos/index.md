@@ -1,6 +1,6 @@
 # Videos
 
-This section includes link to informative videos seprated by diffrent topics for woking in Deno.
+This section includes link to informative videos separated by different topics for working in Deno.
 
 ## Introduction
 

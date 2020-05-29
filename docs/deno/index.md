@@ -47,7 +47,7 @@ By default, Deno has the holes from the V8 Engine to the underlying OS closed. T
 
 ```sh
 --allow-net=www.example.com // url optional
---allow-read=/path // path optinal
+--allow-read=/path // path optional
 --allow-write=/path // path optional
 --allow-run
 --allow-env
@@ -77,7 +77,7 @@ for await (const req of s) {
 
 ## Browser-compatible events
 
-Deno uses bowser-compatible APIs. One of the most exciting additions to the Deno API is a window object, making server-side modules even more compatible with client-side modules.
+Deno uses browser-compatible APIs. One of the most exciting additions to the Deno API is a window object, making server-side modules even more compatible with client-side modules.
 Compatibility with the browser, where possible, is one of Deno’s primary goals. This helps full-stack developers reduce context switching and making learning the two technologies easier.
 
 ## Built-in testing library

@@ -1,6 +1,6 @@
 # Blogs
 
-This section is going to contain diffrent sub-folders containing links to diffrent informative blogs around the web which can help you all get started & develop apps with Deno.
+This section is going to contain different sub-folders containing links to different informative blogs around the web which can help you all get started & develop apps with Deno.
 
 ### The v1.0 Release Blog
 

@@ -8,7 +8,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 1. Ensure every pull request is done with a respective issue mentioned in the description.
 2. If in the folder only one file is present name it `index.md` this will avoid the problem of thinking of names & can help us minimize repetition.
-3. Use camel casing for folder names & use `-` insted of `_`. Ex. `file-server.md` is correct but, `file_server.md` is wrong.
+3. Use camel casing for folder names & use `-` instead of `_`. Ex. `file-server.md` is correct but, `file_server.md` is wrong.
 4. In the pull request description mention all changes mainly the braking ones.
 
 ## Code of Conduct

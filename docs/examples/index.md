@@ -1,6 +1,6 @@
 # Examples
 
-This section contains diffrent examples to understand the working of Deno.
+This section contains different examples to understand the working of Deno.
 
 ### List of topics
 
