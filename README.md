@@ -52,4 +52,6 @@ This repository uses [Docsify](https://docsify.js.org) for generating documentat
 
 ### Contributions Encouraged
 
-If you know something and want to add or found some bugs. Follow the [contribution](./contributing.md) guidelines. We are actively taking contributions from peoples :-)
+If you want to add the next cool thing to this project or maybe you found some bugs and want to report and eventually squash them, follow the [contribution](./contributing.md) guidelines. We are actively taking contributions from awesome people (like you) :-)
+
+Have a look at [our Contributors](https://github.com/Swap76/Learn-Deno/graphs/contributors)
