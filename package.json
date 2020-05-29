@@ -1,7 +1,7 @@
 {
     "name": "learn-deno",
     "version": "1.0.0",
-    "description": "All resources related to Deno 🦕 will be found here...",
+    "description": "All resources related to Deno 🦕 are available here...",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },

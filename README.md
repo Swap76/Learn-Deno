@@ -4,7 +4,7 @@
   <img height src="https://res.cloudinary.com/dqyhqewga/image/upload/v1590698129/deno-logo_aqkgki.png" width=35% height=35%>
 </p>
 
-### All resources related to Deno will be found here...
+### All resources related to Deno are available here...
 
 ### https://swap76.github.io/Learn-Deno/
 
