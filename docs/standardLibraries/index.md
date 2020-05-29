@@ -10,20 +10,18 @@ It is strongly recommended that you link to tagged releases to avoid unintended 
 
 ## Standard Libraries
 
-- [http](./standardLibraries/http.md)
-- bytes
-- datetime
-- encoding
-- flags
-- fmt
-- fs
-- hash
-- log
-- node
-- path
-- testing
-- uuid
-- ws
+- [bytes](./standardLibraries/bytes.md#bytes)
+- [datetime](./standardLibraries/datetime.md#datetime)
+- [encoding](./standardLibraries/encoding.md#encoding)
+- [flags](./standardLibraries/flags.md#flags)
+- [fmt](./standardLibraries/fmt.md#fmt)
+- [fs](./standardLibraries/fs.md#fs)
+- [http](./standardLibraries/http.md#http)
+- [log](./standardLibraries/log.md#log)
+- [path](./standardLibraries/path.md#path)
+- [testing](./standardLibraries/testing.md#testing)
+- [uuid](./standardLibraries/uuid.md#uuid)
+- [ws](./standardLibraries/ws.md#ws)
 
 ### Contributions Encouraged
 

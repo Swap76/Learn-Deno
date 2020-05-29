@@ -34,6 +34,22 @@
 
 - Websites
 
+## Documentation
+
+This repository uses [Docsify](https://docsify.js.org) for generating documentation website on the fly.
+
+**Steps:**
+
+1. Install dependencies
+   ```
+   npm install
+   ```
+2. Then run the following command to serve the documentation.
+   ```
+   docsify serve docs
+   ```
+3. Now you can preview documentation site in your browser by visiting `http://localhost:3000`.
+
 ### Contributions Encouraged
 
 If you know something and want to add or found some bugs. Follow the [contribution](./contributing.md) guidelines. We are actively taking contributions from peoples :-)
