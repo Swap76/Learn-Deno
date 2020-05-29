@@ -52,7 +52,7 @@ This repository uses [Docsify](https://docsify.js.org) for generating documentat
    ```
    docsify serve docs
    ```
-4. Now you can preview documentation site in your browser by visiting `http://localhost:3000`.
+4. Now you can preview documentation site in your browser by visiting [http://localhost:3000](http://localhost:3000).
 
 ### Contributions Encouraged
 
