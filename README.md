@@ -40,15 +40,19 @@ This repository uses [Docsify](https://docsify.js.org) for generating documentat
 
 **Steps:**
 
-1. Install dependencies
+1. Install Docsify globally.
+   ```
+   sudo npm install docsify-cli -g
+   ```
+2. Install other dependencies.
    ```
    npm install
    ```
-2. Then run the following command to serve the documentation.
+3. Then run the following command to serve the documentation.
    ```
    docsify serve docs
    ```
-3. Now you can preview documentation site in your browser by visiting `http://localhost:3000`.
+4. Now you can preview documentation site in your browser by visiting `http://localhost:3000`.
 
 ### Contributions Encouraged
 
