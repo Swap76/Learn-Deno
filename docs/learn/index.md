@@ -6,7 +6,7 @@ This section is dedicated to learning Deno from basic to advance.
 
 - [Http Server](./learn/httpServer/index.md)
 - [Package Management](./learn/packageManagement/index.md)
-- Using types
+- [Reading & Writing JSON](./learn/json/index.md)
 - Top level Async-Await
 - Promises
 - Middleware
