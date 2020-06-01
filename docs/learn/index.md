@@ -1,15 +1,15 @@
 # Learn
 
-This section is dedicated to learning deno from basic to advance.
+This section is dedicated to learning Deno from basic to advance.
 
 ### Chapters
 
-- [httpServer](./learn/httpServer/index.md)
-- Changes to Imports
+- [Http Server](./learn/httpServer/index.md)
+- [Package Management](./learn/packageManagement/index.md)
 - Using types
 - Top level Async-Await
 - Promises
-- Middlewares
+- Middleware
 - bytesToJSON conversions
 
 ### Contributions Encouraged
