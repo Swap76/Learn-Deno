@@ -8,16 +8,40 @@
 
 - [Standard-Libraries](./standardLibraries/index.md)
 
-- [Examples](./examples/index.md)
+  - [bytes](./standardLibraries/bytes.md#bytes)
 
-- [Tools](./tools/index.md)
+  - [datetime](./standardLibraries/datetime.md#datetime)
 
-- [Blogs](./blogs/index.md)
+  - [encoding](./standardLibraries/encoding.md#encoding)
 
-- [Videos](./videos/index.md)
+  - [flags](./standardLibraries/flags.md#flags)
 
-- [Presentations](./presentations/index.md)
+  - [fmt](./standardLibraries/fmt.md#fmt)
 
-- [Websites](./websites/index.md)
+  - [fs](./standardLibraries/fs.md#fs)
 
-- [Want to Contribute](./contributing.md)
+  - [http](./standardLibraries/http.md#http)
+
+  - [log](./standardLibraries/log.md#log)
+
+  - [path](./standardLibraries/path.md#path)
+
+  - [testing](./standardLibraries/testing.md#testing)
+
+  - [uuid](./standardLibraries/uuid.md#uuid)
+
+  - [ws](./standardLibraries/ws.md#ws)
+
+* [Examples](./examples/index.md)
+
+* [Tools](./tools/index.md)
+
+* [Blogs](./blogs/index.md)
+
+* [Videos](./videos/index.md)
+
+* [Presentations](./presentations/index.md)
+
+* [Websites](./websites/index.md)
+
+* [Want to Contribute](./contributing.md)
