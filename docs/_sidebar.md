@@ -6,6 +6,10 @@
 
 - [Learn](./learn/index.md)
 
+  - [Http Server](./learn/httpServer/index.md)
+
+  - [Package Management](./learn/packageManagement/index.md)
+
 - [Standard-Libraries](./standardLibraries/index.md)
 
   - [bytes](./standardLibraries/bytes.md#bytes)
