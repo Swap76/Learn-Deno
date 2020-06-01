@@ -38,3 +38,8 @@ This blog contains all information about deno from why it's created, what all pr
 #### Using Database as MongoDB
 
 - [CRUD Application with Deno](https://blog.usejournal.com/crud-application-with-deno-adb438276428)
+
+## Creating Modules
+
+- [How to write and publish your first Deno module](https://startfunction.com/publish-a-deno-module-in-3-quick-steps/)
+
