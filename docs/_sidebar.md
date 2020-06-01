@@ -10,6 +10,8 @@
 
   - [Package Management](./learn/packageManagement/index.md)
 
+  - [Reading & Writing JSON](./learn/json/index.md)
+
 - [Standard-Libraries](./standardLibraries/index.md)
 
   - [bytes](./standardLibraries/bytes.md#bytes)

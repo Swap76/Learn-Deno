@@ -1,7 +1,7 @@
 # http-server
 
 ```ts
-// Imports the http package form standard library of Deno
+// Imports the http module form standard library of Deno
 import { serve } from "https://deno.land/std/http/server.ts";
 
 // Server Configuration

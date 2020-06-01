@@ -4,7 +4,7 @@ This section includes link to informative videos separated by different topics f
 
 ## Introduction
 
-Videos in this section gives a brief idea about the Deno, why deno is developed, is Deno going to replace NodeJS or not ,etc.
+Brief idea about the Deno, why deno is developed, is Deno going to replace NodeJS or not ,etc.
 
 - [Deno in 100 Seconds](https://youtu.be/F0G9lZ7gecE)
 - [What is Deno & Will it replace Node.js?](https://youtu.be/3Vl8a3zYjiw)
@@ -12,7 +12,15 @@ Videos in this section gives a brief idea about the Deno, why deno is developed,
 - [What Is Deno And Do You Need To Learn It?](https://youtu.be/1ltKPjQKczU)
 - [Learn Node.js Before Deno](https://youtu.be/bZjGSNPCXdU)
 
+## fs Module
+
+Handle files, Reading & Writing JSON & Creating directories etc.
+
+- [Deno FS Tutorial](https://youtu.be/V6fon2T6gC8)
+
 ## Crash Courses
+
+Get fully started with Deno from scratch
 
 - [Deno Crash Course](https://youtu.be/NHHhiqwcfRM)
 - [Deno crash course | Building API with Deno](https://youtu.be/ll-8rtmq2Zc)
