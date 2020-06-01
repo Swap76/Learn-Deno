@@ -17,7 +17,6 @@ This blog contains all information about deno from why it's created, what all pr
 - [Welcome to Deno 🦕](https://blog.usejournal.com/welcome-to-deno-f2dc8f96f4ff)
 - [What is Deno.js and why should you care?](https://dev.to/gregfletcher/what-is-deno-js-and-why-should-you-care-b26)
 - [What is Deno and will it Replace NodeJS?](https://blog.bitsrc.io/what-is-deno-and-will-it-replace-nodejs-a13aa1734a74)
-- [How to write and publish your first Deno module](https://startfunction.com/publish-a-deno-module-in-3-quick-steps/)
 
 ## REST API
 
@@ -38,3 +37,8 @@ This blog contains all information about deno from why it's created, what all pr
 #### Using Database as MongoDB
 
 - [CRUD Application with Deno](https://blog.usejournal.com/crud-application-with-deno-adb438276428)
+
+## Creating Modules
+
+- [How to write and publish your first Deno module](https://startfunction.com/publish-a-deno-module-in-3-quick-steps/)
+
