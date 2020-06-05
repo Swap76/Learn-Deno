@@ -12,11 +12,32 @@ Brief idea about the Deno, why deno is developed, is Deno going to replace NodeJ
 - [What Is Deno And Do You Need To Learn It?](https://youtu.be/1ltKPjQKczU)
 - [Learn Node.js Before Deno](https://youtu.be/bZjGSNPCXdU)
 
-## fs Module
+## Express
 
-Handle files, Reading & Writing JSON & Creating directories etc.
+Creating server with Express
 
-- [Deno FS Tutorial](https://youtu.be/V6fon2T6gC8)
+- [Deno Express Tutorial](https://youtu.be/OktBhNexnhY)
+
+## Oak
+
+Creating server with Oak
+
+- [Deno Oak Tutorial | Deno REST API](https://youtu.be/BAu7fnCbxAs)
+
+## Database
+
+Working with different databases
+
+- [Deno Mongo Tutorial | MongoDB for Deno](https://youtu.be/RPHq_yFz51Q)
+- [Deno & MongoDB REST API Tutorial with Oak Framework](https://youtu.be/TMPBEkfIPWk)
+- [Deno MySQL | Tutorial for Deno SQL & MariaDB](https://youtu.be/6FTf0WZxbL0)
+- [Deno PostgreSQL Tutorial | Deno SQL Database Driver](https://youtu.be/gaN4VghWhNk)
+
+## Authentication
+
+Authenticating our app with different methods
+
+- [JWT Authentication Tutorial in Deno REST API](https://youtu.be/2Skms0gkUXk)
 
 ## Crash Courses
 
@@ -27,6 +48,20 @@ Get fully started with Deno from scratch
 - [Deno Crash Course | Tests & QRCode](https://youtu.be/Bkzem7vLjlA)
 - [Deno Tutorial - Full Course 3.5 Hours (2020)](https://youtu.be/zU6-8w1IR-I)
 - [Deno Crash Course (Backend) + Flutter (Frontend) Full Tutorial](https://youtu.be/_65Ixfu9nSo)
+
+## Building Applications
+
+Hands on experience in building applications
+
+- [Build Realtime Chat App with Deno and WebSockets](https://youtu.be/XWyUtYL6ynE)
+
+## Miscellaneous
+
+Some more useful videos
+
+- [Denon Tutorial | Deno Nodemon Replacement](https://youtu.be/OukB3hQefyI)
+- [Deno Login & Registration System Tutorial](https://youtu.be/2TRipZfWEGY)
+- [Deno FS Tutorial](https://youtu.be/V6fon2T6gC8)
 
 ### Contributions Encouraged
 
