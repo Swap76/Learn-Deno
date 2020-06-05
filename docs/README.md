@@ -24,6 +24,8 @@
 
 - [Videos](./videos/index.md)
 
+- [Courses](./courses/index.md)
+
 - [Presentations](./presentations/index.md)
 
 - [Websites](./websites/index.md)
