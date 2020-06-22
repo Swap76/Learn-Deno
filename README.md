@@ -18,17 +18,17 @@
 
 - Deno
 
-- Learn
+- Blogs
+
+- Videos
+
+- Building Projects
 
 - Standard-Libraries
 
 - Examples
 
 - Tools
-
-- Blogs
-
-- Videos
 
 - Presentations
 

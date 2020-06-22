@@ -32,12 +32,25 @@ Working with different databases
 - [Deno & MongoDB REST API Tutorial with Oak Framework](https://youtu.be/TMPBEkfIPWk)
 - [Deno MySQL | Tutorial for Deno SQL & MariaDB](https://youtu.be/6FTf0WZxbL0)
 - [Deno PostgreSQL Tutorial | Deno SQL Database Driver](https://youtu.be/gaN4VghWhNk)
+- [Deno REST API with CRUD Operation using MongoDB](https://youtu.be/yOK331KQWUo)
 
 ## Authentication
 
 Authenticating our app with different methods
 
 - [JWT Authentication Tutorial in Deno REST API](https://youtu.be/2Skms0gkUXk)
+
+## GraphQL
+
+Get GraphQL running from scratch
+
+- [Build a GraphQL server in Deno using Oak](https://youtu.be/Rc_HhL55JZM)
+
+## React
+
+Get React running with Deno
+
+- [Deno React | Tutorial React Deno Application](https://youtu.be/UUiC5RoTek8)
 
 ## Crash Courses
 
@@ -49,19 +62,13 @@ Get fully started with Deno from scratch
 - [Deno Tutorial - Full Course 3.5 Hours (2020)](https://youtu.be/zU6-8w1IR-I)
 - [Deno Crash Course (Backend) + Flutter (Frontend) Full Tutorial](https://youtu.be/_65Ixfu9nSo)
 
-## Building Applications
-
-Hands on experience in building applications
-
-- [Build Realtime Chat App with Deno and WebSockets](https://youtu.be/XWyUtYL6ynE)
-
 ## Miscellaneous
 
 Some more useful videos
 
 - [Denon Tutorial | Deno Nodemon Replacement](https://youtu.be/OukB3hQefyI)
-- [Deno Login & Registration System Tutorial](https://youtu.be/2TRipZfWEGY)
-- [Deno FS Tutorial](https://youtu.be/V6fon2T6gC8)
+- [Introduction to Deno with Docker](https://youtu.be/4EfnECkCx8E)
+- [Deploy your first Deno Web App to Heroku](https://youtu.be/yXH8VFLh2yA)
 
 ### Contributions Encouraged
 
