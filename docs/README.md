@@ -12,17 +12,17 @@
 
 - [Deno](./deno/index.md)
 
-- [Learn](./learn/index.md)
+- [Blogs](./blogs/index.md)
+
+- [Videos](./videos/index.md)
+
+- [Building Projects](./projects/index.md)
 
 - [Standard-Libraries](./standardLibraries/index.md)
 
 - [Examples](./examples/index.md)
 
 - [Tools](./tools/index.md)
-
-- [Blogs](./blogs/index.md)
-
-- [Videos](./videos/index.md)
 
 - [Courses](./courses/index.md)
 
