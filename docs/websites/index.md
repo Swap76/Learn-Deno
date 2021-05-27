@@ -7,3 +7,7 @@ This is **official** Deno documentation with everything from getting started to 
 The **Deno Handbook** by Flavio Copes
 
 - [https://flaviocopes.com/deno/](https://flaviocopes.com/deno/)
+
+The **Deno Chapter-By-Chapter Tutorial** by Lyty.dev
+
+- [https://lyty.dev/deno/deno-tutorial.html](Deno Tutorials)
