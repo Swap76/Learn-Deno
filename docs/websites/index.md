@@ -10,4 +10,4 @@ The **Deno Handbook** by Flavio Copes
 
 The **Deno Chapter-By-Chapter Tutorial** by Lyty.dev
 
-- [https://lyty.dev/deno/deno-tutorial.html](Deno Tutorials)
+- [Deno Tutorials](https://lyty.dev/deno/deno-tutorial.html)
